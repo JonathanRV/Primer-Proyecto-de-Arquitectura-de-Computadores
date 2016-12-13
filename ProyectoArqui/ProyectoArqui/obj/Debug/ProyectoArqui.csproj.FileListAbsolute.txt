@@ -1,0 +1,21 @@
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 4º Semestre\Programacion\ProyectoArqui\ProyectoArqui\bin\Debug\ProyectoArqui.exe.config
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 4º Semestre\Programacion\ProyectoArqui\ProyectoArqui\bin\Debug\ProyectoArqui.exe
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 4º Semestre\Programacion\ProyectoArqui\ProyectoArqui\bin\Debug\ProyectoArqui.pdb
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 4º Semestre\Programacion\ProyectoArqui\ProyectoArqui\obj\Debug\ProyectoArqui.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 4º Semestre\Programacion\ProyectoArqui\ProyectoArqui\obj\Debug\ProyectoArqui.Form1.resources
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 4º Semestre\Programacion\ProyectoArqui\ProyectoArqui\obj\Debug\ProyectoArqui.Properties.Resources.resources
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 4º Semestre\Programacion\ProyectoArqui\ProyectoArqui\obj\Debug\ProyectoArqui.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 4º Semestre\Programacion\ProyectoArqui\ProyectoArqui\obj\Debug\ProyectoArqui.exe
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 4º Semestre\Programacion\ProyectoArqui\ProyectoArqui\obj\Debug\ProyectoArqui.pdb
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 4º Semestre\Arquitectura de Organizadores\Proyecto_2º_Paralelismo\Poyecto_2º\ProyectoArqui\ProyectoArqui\bin\Debug\ProyectoArqui.exe.config
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 4º Semestre\Arquitectura de Organizadores\Proyecto_2º_Paralelismo\Poyecto_2º\ProyectoArqui\ProyectoArqui\obj\Debug\ProyectoArqui.exe
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 4º Semestre\Arquitectura de Organizadores\Proyecto_2º_Paralelismo\Poyecto_2º\ProyectoArqui\ProyectoArqui\obj\Debug\ProyectoArqui.pdb
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 4º Semestre\Arquitectura de Organizadores\Proyecto_2º_Paralelismo\Poyecto_2º\ProyectoArqui\ProyectoArqui\bin\Debug\ProyectoArqui.exe
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 4º Semestre\Arquitectura de Organizadores\Proyecto_2º_Paralelismo\Poyecto_2º\ProyectoArqui\ProyectoArqui\bin\Debug\ProyectoArqui.pdb
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 4º Semestre\Arquitectura de Organizadores\Proyecto_2º_Paralelismo\Poyecto_2º\ProyectoArqui\ProyectoArqui\obj\Debug\ProyectoArqui.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 4º Semestre\Arquitectura de Organizadores\Proyecto_2º_Paralelismo\Poyecto_2º\ProyectoArqui\ProyectoArqui\obj\Debug\ProyectoArqui.Form1.resources
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 4º Semestre\Arquitectura de Organizadores\Proyecto_2º_Paralelismo\Poyecto_2º\ProyectoArqui\ProyectoArqui\obj\Debug\ProyectoArqui.Properties.Resources.resources
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 4º Semestre\Arquitectura de Organizadores\Proyecto_2º_Paralelismo\Poyecto_2º\ProyectoArqui\ProyectoArqui\obj\Debug\ProyectoArqui.csproj.GenerateResource.Cache
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 4 Semestre\Arquitectura de Organizadores\Proyecto_2º_Paralelismo\Poyecto_2º\ProyectoArqui\ProyectoArqui\bin\Debug\ProyectoArqui.exe.config
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 4 Semestre\Arquitectura de Organizadores\Proyecto_2º_Paralelismo\Poyecto_2º\ProyectoArqui\ProyectoArqui\obj\Debug\ProyectoArqui.exe
+C:\Users\Jona_RV\Dropbox\TEC\Materia TEC 4 Semestre\Arquitectura de Organizadores\Proyecto_2º_Paralelismo\Poyecto_2º\ProyectoArqui\ProyectoArqui\obj\Debug\ProyectoArqui.pdb
